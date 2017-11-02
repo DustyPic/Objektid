@@ -1,0 +1,2 @@
+C:\Users\opilane\Desktop\Objektid\Objektid\obj\Debug\Objektid.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\Objektid\Objektid\obj\Debug\Objektid.csproj.CoreCompileInputs.cache
